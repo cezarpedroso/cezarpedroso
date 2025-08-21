@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on more Networking and Security projects<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with DevOps pipelines<br>🌱 I’m currently learning C++ and DS&A<br>⚡ I love jazz and blues
+🔭 I’m currently grinding on LeetCode<br>👯 I’m looking to collaborate on any project<br>🤝 I’m open for internship and entry-level positions<br>🌱 I’m currently learning C++ and Apache<br>⚡ Studying History and Philosophy when not coding
 
 
 ## 🌐 Socials:
