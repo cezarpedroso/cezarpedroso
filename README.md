@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently grinding on LeetCode<br>👯 I’m looking to collaborate on any project<br>🤝 I’m open for internships and entry-level positions<br>🌱 I’m currently learning C++<br>⚡ Studying History and Philosophy when not coding
+👯 I’m looking to collaborate on any project<br>🤝 I’m open for internships and entry-level positions<br>🌱<br>
 
 
 ## 🌐 Socials:
