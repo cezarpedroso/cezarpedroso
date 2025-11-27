@@ -1,5 +1,5 @@
 # About Me:
-👯 I’m looking to collaborate on any project<br>🤝 I’m open for internships and entry-level positions<br>
+👯 I’m looking to collaborate on any project
 
 
 ## 🌐 Socials:
