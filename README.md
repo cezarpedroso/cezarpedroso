@@ -1,6 +1,6 @@
 # Hi, I'm Cezar 👋
 
-Software Engineering & IT student with an interest in cybersecurity, cloud, and software development.
+A developer focused on backend ,.NET, and cybersecurity.
 
 Currently open to collaborating on interesting projects.
 
@@ -27,8 +27,6 @@ Currently open to collaborating on interesting projects.
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-555555?style=flat&logo=apache&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-555555?style=flat&logo=pandas&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-555555?style=flat&logo=jira&logoColor=white)
 
 ### Cloud
