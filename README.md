@@ -1,6 +1,6 @@
 # Hi, I'm Cezar 👋
 
-A developer focused on backend ,.NET, and cybersecurity.
+A developer focused on .NET and cybersecurity
 
 Currently open to collaborating on interesting projects.
 
