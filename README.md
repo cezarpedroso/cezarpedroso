@@ -1,6 +1,6 @@
-# Hi, I'm Cezar 👋
+# Cezar Pedroso
 
-A developer focused on .NET and cybersecurity
+A developer focused on .NET
 
 Currently open to collaborating on interesting projects.
 
