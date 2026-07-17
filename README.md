@@ -14,6 +14,7 @@ Currently open to collaborating on interesting projects.
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-555555?style=flat&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=nodedotjs&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-555555?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=white)
