@@ -15,11 +15,9 @@ Currently open to collaborating on interesting projects.
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-555555?style=flat&logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-555555?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-555555?style=flat&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat&logo=html5&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-555555?style=flat&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-555555?style=flat&logo=gnubash&logoColor=white)
 
@@ -28,7 +26,11 @@ Currently open to collaborating on interesting projects.
 ![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-555555?style=flat&logo=jira&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-555555?style=flat&logo=react&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-555555?style=flat&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-555555?style=flat&logo=azuredevops&logoColor=white)
 
 ### Cloud
 ![AWS](https://img.shields.io/badge/AWS-555555?style=flat&logo=amazonaws&logoColor=white)
