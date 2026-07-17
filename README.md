@@ -40,6 +40,7 @@ Currently open to collaborating on interesting projects.
 ### Hardware
 ![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat&logo=arduino&logoColor=white)
 ![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-555555?style=flat&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=white)
 
 ---
 
