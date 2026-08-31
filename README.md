@@ -1,47 +1,29 @@
 # Cezar Pedroso
 
-A developer focused on .NET
+**Software Engineer | .NET Developer | ASP.NET Core | C#**
 
-Currently open to collaborating on interesting projects.
+Software engineer focused on backend development, REST APIs, and production-ready .NET applications.
+
+Experience includes enterprise software development, contract work, and full-stack systems using **C#, .NET, ASP.NET Core, Entity Framework Core, SQL, React, and Azure**.
+
+## Experience
+
+* **Application Developer Intern** — Homesteaders Life Company
+* **Software Engineering Intern** — VTEX
+* **Contract Software Engineer** — Self-Employed
+* **Software Engineer Intern** — AI Equity Alliance
+
+## Featured Projects
+
+* **DotDet (.DET)** — .NET production-readiness analyzer built with Roslyn and MSBuild
+* **Schema Architect** — SQL-to-EF Core backend project generator
+* **Document Approval System** — ASP.NET Core + React enterprise document workflow platform
+
+## Tech
+
+`C#` · `.NET` · `ASP.NET Core` · `EF Core` · `SQL` · `PostgreSQL` · `React` · `TypeScript` · `Azure` · `Docker` · `Git`
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cezaramp)
-[![Instagram](https://img.shields.io/badge/Instagram-555555?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cezar_mathias)
-[![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)](mailto:cezarapedroso@gmail.com)
-
-## Tech Stack
-
-### Languages
-![C#](https://img.shields.io/badge/C%23-555555?style=flat&logo=csharp&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-555555?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-555555?style=flat&logo=php&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-555555?style=flat&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-555555?style=flat&logo=gnubash&logoColor=white)
-
-### Frameworks & Tools
-![.NET](https://img.shields.io/badge/.NET-555555?style=flat&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555555?style=flat&logo=docker&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-555555?style=flat&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-555555?style=flat&logo=react&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-555555?style=flat&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-555555?style=flat&logo=azuredevops&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-555555?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-555555?style=flat&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-555555?style=flat&logo=vercel&logoColor=white)
-
-### Hardware
-![Arduino](https://img.shields.io/badge/Arduino-555555?style=flat&logo=arduino&logoColor=white)
-![Raspberry%20Pi](https://img.shields.io/badge/Raspberry%20Pi-555555?style=flat&logo=raspberrypi&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-555555?style=flat&logo=linux&logoColor=white)
-
----
-
-![](https://visitcount.itsvg.in/api?id=cezarpedroso&icon=0&color=0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/cezaramp)
+[![Email](https://img.shields.io/badge/Email-555555?style=flat\&logo=gmail\&logoColor=white)](mailto:cezarapedroso@gmail.com)
