@@ -10,6 +10,7 @@ Experience includes enterprise software development, contract work, and full-sta
 
 * **Application Developer Intern** — Homesteaders Life Company
 * **Software Engineering Intern** — VTEX
+* **Lead Software Engineering Intern** — Mahaska Chamber & Development Group
 * **Contract Software Engineer** — Self-Employed
 * **Software Engineer Intern** — AI Equity Alliance
 
