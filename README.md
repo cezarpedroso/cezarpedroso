@@ -15,12 +15,6 @@ Experience includes enterprise software development, contract work, and full-sta
 * **Contract Software Engineer** — Self-Employed
 * **Software Engineer Intern** — AI Equity Alliance
 
-## Featured Projects
-
-* **DotDet (.DET)** — .NET production-readiness analyzer built with Roslyn and MSBuild
-* **Schema Architect** — SQL-to-EF Core backend project generator
-* **Document Approval System** — ASP.NET Core + React enterprise document workflow platform
-
 ## Tech
 
 `C#` · `.NET` · `ASP.NET Core` · `EF Core` · `SQL` · `PostgreSQL` · `React` · `TypeScript` · `Azure` · `Docker` · `Git`
