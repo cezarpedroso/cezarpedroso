@@ -8,6 +8,7 @@ Experience includes enterprise software development, contract work, and full-sta
 
 ## Experience
 
+* **Lead Developer** — OskyApp
 * **Application Developer Intern** — Homesteaders Life Company
 * **Software Engineering Intern** — VTEX
 * **Lead Software Engineering Intern** — Mahaska Chamber & Development Group
