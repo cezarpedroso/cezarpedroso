@@ -8,7 +8,7 @@ Experience includes enterprise software development, contract work, and full-sta
 
 ## Experience
 
-* **Lead Developer** — OskyApp
+* **Software Developer** — OskyApp
 * **Application Developer Intern** — Homesteaders Life Company
 
 ## Tech
